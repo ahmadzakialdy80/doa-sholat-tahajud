@@ -1,7 +1,7 @@
 {
   "Ads": [
     {
-      "select_main_ads": "FACEBOOK",
+      "select_main_ads": "null",
       "select_backup_ads":"null",
       "main_ads_banner": "null",
       "main_ads_intertitial":"null",
@@ -12,7 +12,7 @@
       "backup_ads_intertitial":"null",
       "backup_ads_rewards":"null",
       "open_app_ads":"null",
-      "interval_intertitial": 7,
+      "interval_intertitial": 17,
       "initialize_sdk":"null",
       "initialize_sdk_backup_ads":"null",
       "high_paying_keyword_1": "",
